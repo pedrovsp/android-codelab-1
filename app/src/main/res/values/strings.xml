@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Archer 1999</string>
+    <string name="archer_talks">Don\'t judge me, food</string>
+    <string name="archer1999">Archer 1999</string>
+    <string name="btn_count">COUNT</string>
+    <string name="btn_toast">TOAST</string>
+    <string name="toast_message">Olá</string>
+</resources>
